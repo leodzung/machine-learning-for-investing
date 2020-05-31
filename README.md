@@ -1,2 +1,1 @@
-# machine-learning-for-investing
-Machine Learning for Investing
+# Machine Learning for Investing
