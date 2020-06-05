@@ -1,6 +1,6 @@
 # Machine Learning for Investing
 
-## Investing for everyone
+## Investing for everyone?
 
 ### Lower barrier of entry
 
