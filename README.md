@@ -17,4 +17,4 @@ For an average, beginner trader, it takes time to build a sustainable trading st
 In an ideal world, an algorithm would take the aforementioned paramenters (budget, timeline, and risk) to develop a trading algorithm with a reasonable and sustainable return. This calls for machine learning to search, build, and backtest a trading strategy that suitable for each trader's profile.
 
 # Resources
-1. [Quantopian] https://www.quantopian.com/contest/resources
+1. [Quantopian] (https://www.quantopian.com/contest/resources)
