@@ -12,6 +12,6 @@ Also, some financial institutions such as M1 Finance allow you to purchase fract
 
 ### Why machine learning?
 
-It takes time to build a sustainable trading strategy. It even take more time to achieve the knowledge enough to research different trading strategies and choose one that suits one's budget (how much money do you have?), investing horizon time (how long that you can keep the trading budget untoch until you need to spend it?), and risk apetite (how much you are willing to lose/temporary lose?).
+It takes time to build a sustainable trading strategy. It even take more time to achieve the knowledge enough to research different trading strategies and choose one that suits one's budget (how much money do you have?), investing horizon time (how long that you can keep the trading budget untouched until you need to spend it?), and risk apetite (how much you are willing to lose/temporary lose?).
 
-In an i
+In an ideal world, an algorithm would take the aforementioned paramenters (budget, timeline, and risk) to develop a trading algorithm with a reasonable and sustainable return. This calls for machine learning to search, build, and backtest a trading strategy that suitable for each trader's profile.
