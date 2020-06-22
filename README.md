@@ -34,7 +34,8 @@ After back testing the strategy, the next step is to verify that the strategy is
 
 There are many that offer paper trading feature and others who offer quantitative trading. Quantopian, for example, is a well-known platform that used to provide both services. Unfortunately, they shut down their paper trading feature in 2018, forcing their members to find an alternative. 
 
-During my research for an alternative, I found [Alpaca] (https://alpaca.markets/), which is new yet getting more an more popularity among the quantitative trading professionals. Alpaca is a commission-free, algorithmic trading platform with a growing community. They have a free paper trading which allows testing your algoritm with real and live market data. Below is a screenshot when I am testing my long shot algorithm in Alpaca's paper trading. 
+During my research for an alternative, I found [Alpaca] (https://alpaca.markets/), which is new yet getting more an more popularity among the quantitative trading professionals. Alpaca is a commission-free, algorithmic trading platform with a growing community. They have a free paper trading which allows testing your algoritm with real and live market data. Below is a screenshot when I am testing my long short algorithm in Alpaca's paper trading. 
 
 # Resources
 1. [Quantopian] (https://www.quantopian.com/contest/resources)
+2. [Alpaca Trade APIs] (https://github.com/alpacahq/alpaca-trade-api-python)
