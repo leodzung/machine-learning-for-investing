@@ -16,5 +16,21 @@ For an average, beginner trader, it takes time to build a sustainable trading st
 
 In an ideal world, an algorithm would take the aforementioned paramenters (budget, timeline, and risk) to develop a trading algorithm with a reasonable and sustainable return. This calls for machine learning to search, build, and backtest a trading strategy that suitable for each trader's profile.
 
+## Pipeline
+
+### Feature Engineer
+
+### Strategy Selection
+
+### Back Testing
+
+### Paper Trading
+
+After back testing the strategy, the next step is to verify that the strategy is not overfitting. We would need to run the strategy against real-time market data to see how it performs. This is called "Paper Trade", which refers to the practice that aspiring traders used to practice on paper before risking their money in live trading.
+
+There are many that offer paper trading feature and others who offer quantitative trading. Quantopian, for example, is a well-known platform that used to provide both services. Unfortunately, they shut down their paper trading feature in 2018, forcing their members to find an alternative. 
+
+During my research for an alternative, I found [Alpaca] (https://alpaca.markets/), which is new yet getting more an more interest in the quantitative trading professionals.
+
 # Resources
 1. [Quantopian] (https://www.quantopian.com/contest/resources)
